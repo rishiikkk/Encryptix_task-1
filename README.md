@@ -5,11 +5,11 @@ Python
 Sqlite3
 Tkinter
 
-How to run?
-git clone https://github.com/hakpk5/Rule-Based-Chatbot.git
-Run database.py, and then run main.py
 
 Things to have beforehand.
 Install python3 or above
 Intall tkinter
 Install sqlite3
+
+Glance
+![image](https://github.com/rishiikkk/Encryptix_task-1/assets/156077373/f4dfe952-73e8-4076-bd73-2174ac11d29e)
